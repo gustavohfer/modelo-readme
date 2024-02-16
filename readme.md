@@ -10,7 +10,7 @@ Aqui podem ser incluidos:
 - Links:
     https://github.com   
     ou
-    [Clickable](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    [link clicável](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Codigos:
 ```
 codigo aqui
